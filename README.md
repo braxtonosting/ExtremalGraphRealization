@@ -3,8 +3,7 @@
 
 **Author:** <a href="http://www.math.utah.edu/~osting/">Braxton Osting</a> 
 
-**Paper:** [arXiv](https://arxiv.org/abs/xxx.xxx) | [doi](https://doi.org/xxx)
-
+**Paper:** [arXiv](https://arxiv.org/abs/2206.10010) | [doi](https://doi.org/10.1137/22M1504421)
 
 ## Overview
 
@@ -16,10 +15,12 @@ This site contains supporting material for the paper, *Extremal graph realizatio
 ## Citation
 If you would like to cite this work, feel free to use this bibtex entry.
 
-    @article{Osting2022,
-      title={Extremal graph realizations and graph Laplacian eigenvalues},
-      author={Osting, Braxton},
-      journal={preprint, arXiv:xxx.xxx},
-      year={2022}
-    } 
-
+    @article{doi:10.1137/22M1504421,
+    author = {Braxton Osting},
+    title = {Extremal Graph Realizations and Graph Laplacian Eigenvalues},
+    journal = {SIAM Journal on Discrete Mathematics},
+    volume = {37},
+    number = {3},
+    pages = {1630--1644},
+    year = {2023},
+    doi = {10.1137/22M1504421}}    
